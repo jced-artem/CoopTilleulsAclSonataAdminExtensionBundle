@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=7.2",
-        "sonata-project/admin-bundle": "^2.2.2 || ^3.0",
+        "sonata-project/admin-bundle": "^2.2.2 || ^3.0 || ^4.29",
         "symfony/dependency-injection": "^2.2 || ^3.0",
         "doctrine/dbal": "^2.2 || ^3.0",
         "symfony/security-acl": "^3.0",
